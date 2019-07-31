@@ -1,0 +1,6 @@
+dns1.example.com
+dns2.example.com
+dns3.example.com
+dns4.example.com
+dns5.example.com
+dns6.example.com
